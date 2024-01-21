@@ -1,0 +1,75 @@
+﻿@using ExamTask.Core.Entities
+@model IEnumerable<Portfolio>
+
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-2 text-gray-800">Portfolio Table</h1>
+                    <p class="mb-4">Portfolio CRUD operations done here</p>
+
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">Portfolios</h6>
+                            <a class="btn btn-outline-primary" asp-action="Create">
+                                Create
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>Title</th>
+                                            <th>Image</th>
+                            <th>Category</th>
+                            <th>Action</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>Image</th>
+                                            <th>Category</th>
+                            <th>Action</th>
+                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                        {
+                            @if(!item.IsDeleted)
+                            {
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td><img style="width:30%;border-radius:10px" src="~/Upload/@item.ImageUrl" /></td>
+                                    <td>@item.Category</td>
+                                    <td>
+                                        <a class="btn btn-outline-warning" asp-action="Update" asp-route-id="@item.Id">
+                                            Update
+                                        </a>
+                                        <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr style="background-color:indianred">
+                                    <td>@item.Name</td>
+                                    <td><img style="width:30%;border-radius:10px" src="~/Upload/@item.ImageUrl" /></td>
+                                    <td>@item.Category</td>
+                                    <td>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container-fluid -->

@@ -1,0 +1,27 @@
+﻿@using ExamTask.Business.ViewModels.EntityVms
+@model CreatePortfolioVm
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Category" class="form-label">Category</label>
+            <input asp-for="Category" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageFile" class="form-label">Upload Portfolio Image</label>
+            <input asp-for="ImageFile" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary">
+            Submit
+        </button>
+        <button asp-action="Index" class="btn btn-outline-secondary">
+            Go Back
+        </button>
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </form>
+</div>

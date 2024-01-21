@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.Business.deps.json
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.Business.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.Business.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.Core.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.DAL.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.DAL.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\bin\Debug\net6.0\ExamTask.Core.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\refint\ExamTask.Business.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ExamTask.Business.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Business\obj\Debug\net6.0\ref\ExamTask.Business.dll

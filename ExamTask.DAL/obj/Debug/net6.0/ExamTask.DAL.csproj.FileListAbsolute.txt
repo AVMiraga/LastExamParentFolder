@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.DAL.deps.json
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.DAL.runtimeconfig.json
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.DAL.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.DAL.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.Core.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\bin\Debug\net6.0\ExamTask.Core.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\refint\ExamTask.DAL.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ExamTask.DAL.genruntimeconfig.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.DAL\obj\Debug\net6.0\ref\ExamTask.DAL.dll

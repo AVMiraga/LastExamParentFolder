@@ -1,0 +1,22 @@
+﻿@model Dictionary<string, string>
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        @foreach (var item in Model)
+        {
+            <div class="mb-3">
+                <label asp-for="@Model[item.Key]" class="form-label">@item.Key</label>
+                <input asp-for="@Model[item.Key]" class="form-control">
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary">
+            Submit
+        </button>
+        <button asp-action="Index" asp-controller="Dashboard" class="btn btn-outline-secondary">
+            Go Back
+        </button>
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </form>
+</div>

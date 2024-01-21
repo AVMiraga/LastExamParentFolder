@@ -1,0 +1,12 @@
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\bin\Debug\net6.0\ExamTask.Core.deps.json
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\bin\Debug\net6.0\ExamTask.Core.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\bin\Debug\net6.0\ExamTask.Core.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\refint\ExamTask.Core.dll
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ExamTask.Core.pdb
+C:\Users\ll novbe\Desktop\FinalElmar\ExamTask\ExamTask.Core\obj\Debug\net6.0\ref\ExamTask.Core.dll
